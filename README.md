@@ -4,7 +4,7 @@ Backend / Full-Stack Engineer with 10+ years of experience building business-cri
 
 I build reliable systems that help organizations operate at scale, with hands-on experience across backend, frontend, integrations, databases, and production support. My strongest experience is in Java, Spring Boot, PHP, JavaScript/TypeScript, SQL, and web platform development, always with a focus on maintainability, business impact, and incremental delivery.
 
-![](https://raw.githubusercontent.com/feluzan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/feluzan/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 
 ## Core technologies
 
