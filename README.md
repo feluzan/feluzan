@@ -1,7 +1,5 @@
 # Félix Zanetti
 
-[English](./README.md) | [Português (BR)](./README.pt-BR.md)
-
 I build backend systems that make complex operations simpler, safer, and easier to evolve.
 
 Senior Backend / Full-Stack Engineer · Java & Spring · Brazil 🇧🇷 · Open to remote international roles
